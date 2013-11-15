@@ -1,0 +1,13 @@
+git remote add core http://github.com/popop91/gitLabb1.git
+
+git remote rm origin
+
+git push core master /git push origin master
+git pull core master /git pull origin master
+
+git remote -v
+
+git config --global user.name "Kalle"
+git config --global user.email "kalle@kalle.com"
+
+
